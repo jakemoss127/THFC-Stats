@@ -1,6 +1,6 @@
-# Jake Moss's Python Visualization Projects
+# Tottenham Hotspur Data Science Graphs
 
-This repository contains Python projects for visualizing athletics-related data. It includes a variety of charts created using Matplotlib, Plotly, and Seaborn.
+This repository contains Python projects for visualizing soccer data for Tottenham Hotspur. It includes a variety of charts created using Matplotlib, Plotly, and Seaborn.
 
 ## Features
 
